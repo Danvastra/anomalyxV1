@@ -93,7 +93,7 @@ def dapet_ip(ip_address):
 while True:
     time.sleep(3)
     print("\n")
-    print(Fore.YELLOW + " + Anomalyx Tools v1 by Danvertt + ")
+    print(Fore.YELLOW + " + Anomalyx Tools v1 by Danvastra + ")
     print("\n")
     print("This Tools :")
     print("[1] Auto Check My IP Address")

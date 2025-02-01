@@ -1,0 +1,7 @@
+git clone https//github.com/danvertt/anomalyxV1
+cd anomalyxV1
+ls
+sudo python3 setup.py install
+python3 anomalyxV1.py
+
+enjoy the tools! :)
